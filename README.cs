@@ -2,8 +2,6 @@
 
 This is the first file in this repository. 
 
-##Ipsum Below
+##WEBSITE CONTENTS
 
-Tres tristes tigres tragaban trigo en un trigal.
-
-A little bit more of Ipsum idk what Ipsum is but it sounds kinda cool. 
+1.index.html
